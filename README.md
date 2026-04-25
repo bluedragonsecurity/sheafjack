@@ -181,7 +181,7 @@ This research is published for educational and defensive security purposes. All 
 
 ---
 
-# SheafJack — Versi Bahasa Indonesia
+# SheafJack 
 
 ## Pembajakan Jalur Alokasi Kernel 7.0 via Arsitektur `slab_sheaf`
 
